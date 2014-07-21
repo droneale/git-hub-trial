@@ -1,3 +1,7 @@
 A file with some words in it. Created locally.
 
+<<<<<<< HEAD
 A local edit.
+=======
+A zen-y edit from the browser.
+>>>>>>> FETCH_HEAD
